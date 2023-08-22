@@ -1,0 +1,11 @@
+D:\Basic_C#\Task2_maHash\Task2_maHash\bin\Debug\Task2_maHash.exe.config
+D:\Basic_C#\Task2_maHash\Task2_maHash\bin\Debug\Task2_maHash.exe
+D:\Basic_C#\Task2_maHash\Task2_maHash\bin\Debug\Task2_maHash.pdb
+D:\Basic_C#\Task2_maHash\Task2_maHash\obj\Debug\Task2_maHash.csproj.AssemblyReference.cache
+D:\Basic_C#\Task2_maHash\Task2_maHash\obj\Debug\Task2_maHash.csproj.SuggestedBindingRedirects.cache
+D:\Basic_C#\Task2_maHash\Task2_maHash\obj\Debug\Task2_maHash.Form1.resources
+D:\Basic_C#\Task2_maHash\Task2_maHash\obj\Debug\Task2_maHash.Properties.Resources.resources
+D:\Basic_C#\Task2_maHash\Task2_maHash\obj\Debug\Task2_maHash.csproj.GenerateResource.cache
+D:\Basic_C#\Task2_maHash\Task2_maHash\obj\Debug\Task2_maHash.csproj.CoreCompileInputs.cache
+D:\Basic_C#\Task2_maHash\Task2_maHash\obj\Debug\Task2_maHash.exe
+D:\Basic_C#\Task2_maHash\Task2_maHash\obj\Debug\Task2_maHash.pdb
